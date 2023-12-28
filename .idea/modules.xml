@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HoraDoSistema/HoraDoSistema.iml" filepath="$PROJECT_DIR$/HoraDoSistema/HoraDoSistema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdiomaSistema/IdiomaSistema.iml" filepath="$PROJECT_DIR$/IdiomaSistema/IdiomaSistema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OlaMundoSwing/OlaMundoSwing.iml" filepath="$PROJECT_DIR$/OlaMundoSwing/OlaMundoSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" filepath="$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cursoemvideo-java.iml" filepath="$PROJECT_DIR$/.idea/cursoemvideo-java.iml" />
+    </modules>
+  </component>
+</project>
