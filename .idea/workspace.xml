@@ -1,7 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f529f4b6-8164-465b-8a93-08f3d6989e5a" name="Changes" comment="" />
+    <list default="true" id="f529f4b6-8164-465b-8a93-08f3d6989e5a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoraDoSistema/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoraDoSistema/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoraDoSistema/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoraDoSistema/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoraDoSistema/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoraDoSistema/HoraDoSistema.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoraDoSistema/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdiomaSistema/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdiomaSistema/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdiomaSistema/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdiomaSistema/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdiomaSistema/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdiomaSistema/IdiomaSistema.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdiomaSistema/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OlaMundoSwing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OlaMundoSwing/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OlaMundoSwing/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OlaMundoSwing/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OlaMundoSwing/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OlaMundoSwing/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OlaMundoSwing/OlaMundoSwing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OlaMundoSwing/src/OlaMundoJava.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OlaMundoSwing/src/OlaMundoJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/.idea/POO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula02/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula02/Aula02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula02/src/Caneta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula02/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula02/src/Musica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula02/src/Violao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula03/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula03/Aula02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula03/Aula03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula03/src/Caneta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula03/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula04/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula04/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula04/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula04/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula04/Aula04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula04/Aula4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula04/src/aula04/Caneta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula04/src/aula04/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula05/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula05/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula05/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula05/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula05/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula05/Aula05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula05/src/ContaBanco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Aula05/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/algoritmo-aula05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeiroPrograma/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeiroPrograma/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeiroPrograma/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeiroPrograma/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeiroPrograma/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeiroPrograma/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeiroPrograma/src/primeiroprograma/PrimeiroPrograma.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,24 +89,24 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2Z6HghuwQjO5PqjFp3JGVDbscQB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Master/Documents/GitHub/cursoemvideo-java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Master/Documents/GitHub/cursoemvideo-java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,6 +116,8 @@
       <option name="presentableId" value="Default" />
       <updated>1701735721953</updated>
       <workItem from="1701735723045" duration="56000" />
+      <workItem from="1741221682826" duration="218000" />
+      <workItem from="1741222183670" duration="94000" />
     </task>
     <servers />
   </component>

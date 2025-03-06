@@ -58,7 +58,22 @@ Classe ContaBanco
 	FimMetodo
 	
 	publico Metodo pagarMensal()
-		//
-	FimMetodo
-	
+		var v: Real
+		
+		se (tipo = "CC") entao
+			v = 12
+		senao se (tipo = "CP") entao
+			v = 20
+		FimSe
+		
+		se (status = verdadeiro) entao
+			se (saldo > v) entao
+				saldo = saldo - v
+			senao 
+				Escreva("Saldo insuficiente")
+			FimSe
+		senao
+			Escreva("Impossivel pagar")
+		FimSe
+	FimMetodo	
 FimClasse
