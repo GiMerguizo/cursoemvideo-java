@@ -62,7 +62,7 @@ public class TelaRelogio extends javax.swing.JFrame {
                     .addComponent(lblHora)
                     .addComponent(jLabel2)
                     .addComponent(btnHora))
-                .addContainerGap(143, Short.MAX_VALUE))
+                .addContainerGap(139, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -78,7 +78,7 @@ public class TelaRelogio extends javax.swing.JFrame {
                         .addComponent(lblHora)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                         .addComponent(btnHora)))
-                .addContainerGap(25, Short.MAX_VALUE))
+                .addContainerGap(24, Short.MAX_VALUE))
         );
 
         pack();
