@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.media.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="200.0" prefWidth="400.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="telainfosistema.FXMLDocumentController">
+   <children>
+      <Label layoutX="158.0" layoutY="14.0" text="Dados do Sistema">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="100.0" fitWidth="100.0" layoutX="29.0" layoutY="26.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../imagens/dados-do-sistema.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="158.0" layoutY="49.0" text="Hora atual:" />
+      <Label layoutX="158.0" layoutY="92.0" text="Idioma:" />
+      <Label layoutX="158.0" layoutY="142.0" text="Resoluçao da Tela:" />
+      <Button fx:id="btnClick" layoutX="17.0" layoutY="138.0" mnemonicParsing="false" onAction="#clicouBotao" text="Clique para atualizar" />
+      <Label fx:id="lblHora" layoutX="155.0" layoutY="68.0" text="~clique para atualizar~" textFill="#979191" />
+      <Label fx:id="lblIdioma" layoutX="158.0" layoutY="118.0" text="~clique para atualizar~" textFill="#979191" />
+      <Label fx:id="lblTela" layoutX="158.0" layoutY="163.0" text="~clique para atualizar~" textFill="#979191" />
+   </children>
+</AnchorPane>
